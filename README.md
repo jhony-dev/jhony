@@ -1,4 +1,4 @@
 ### Iai 
 
 
-- 📚  I'm currently learning HTML, CSS, JavaScript, SQL, Node, React, React Native
+- 📚  I'm currently learning HTML, CSS, JavaScript, Node end Reactjs
